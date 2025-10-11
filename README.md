@@ -164,4 +164,33 @@ GROUP BY
     shift
 ORDER BY
     shift;
+```
+## 📊 Findings
+
+- **Customer Demographics:** The dataset includes customers from various age groups, with sales distributed across categories such as Clothing and Beauty.  
+- **High-Value Transactions:** Several transactions had a total sale amount greater than ₹1000, indicating premium purchases.  
+- **Sales Trends:** Monthly analysis highlights variations in sales, helping identify peak seasons.  
+- **Customer Insights:** The analysis identifies top-spending customers and the most popular product categories.
+
+---
+
+## 📈 Reports
+
+- **Sales Summary:** Summarizes total sales, customer demographics, and category performance.  
+- **Trend Analysis:** Provides insights into sales patterns across months and time periods.  
+- **Customer Insights:** Displays top customers and unique customer counts per category.
+
+---
+
+## 🖼️ Dashboard Preview
+
+<a.href="https://github.com/Viveka2430/retail-sales-analysis/blob/main/Retail%20Sales%20Dashboard.png">View Dashbard</a>
+
+---
+
+### 💡 Tools Used
+- Pgadmin
+- Power BI  
+- Microsoft Excel  
+- DAX (for calculated columns and measures)
 
