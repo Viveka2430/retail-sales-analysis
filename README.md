@@ -167,11 +167,11 @@ ORDER BY
 ```
 ## 📊 Findings
 
-Young customers (18–35) make most of the purchases and drive overall sales.
-Beauty and Clothing are the top-selling and most profitable categories.
-Evening hours show the highest sales activity.
-Several high-value transactions (above ₹1000) indicate premium customers.
-Profit can increase by reducing COGS and focusing on repeat customers.
+1.Young customers (18–35) make most of the purchases and drive overall sales.
+2.Beauty and Clothing are the top-selling and most profitable categories.
+3.Evening hours show the highest sales activity.
+4.Several high-value transactions (above ₹1000) indicate premium customers.
+5.Profit can increase by reducing COGS and focusing on repeat customers.
 
 ---
 
