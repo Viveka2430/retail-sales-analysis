@@ -179,3 +179,4 @@ ORDER BY
 - **Customer Insights**: Reports on top customers and unique customer counts per category.
 
 https://github.com/Viveka2430/retail-sales-analysis/blob/main/Retail%20Sales%20Dashboard.png
+Retail Sales Dashboard.png
