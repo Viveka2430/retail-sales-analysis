@@ -184,7 +184,7 @@ ORDER BY
 
 ## 🖼️ Dashboard Preview
 
-<a.href=Retail Sales Dashboard.png>View Dashbard</a>
+<a.href=https://github.com/Viveka2430/retail-sales-analysis/blob/main/Retail Sales Dashboard.png>View Dashbard</a>
 
 ---
 
