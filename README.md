@@ -178,4 +178,4 @@ ORDER BY
 - **Trend Analysis**: Insights into sales trends across different months and shifts.
 - **Customer Insights**: Reports on top customers and unique customer counts per category.
 
-
+https://github.com/Viveka2430/retail-sales-analysis/blob/main/Retail%20Sales%20Dashboard.png
