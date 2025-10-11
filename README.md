@@ -167,10 +167,11 @@ ORDER BY
 ```
 ## 📊 Findings
 
-- **Customer Demographics:** The dataset includes customers from various age groups, with sales distributed across categories such as Clothing and Beauty.  
-- **High-Value Transactions:** Several transactions had a total sale amount greater than ₹1000, indicating premium purchases.  
-- **Sales Trends:** Monthly analysis highlights variations in sales, helping identify peak seasons.  
-- **Customer Insights:** The analysis identifies top-spending customers and the most popular product categories.
+Young customers (18–35) make most of the purchases and drive overall sales.
+Beauty and Clothing are the top-selling and most profitable categories.
+Evening hours show the highest sales activity.
+Several high-value transactions (above ₹1000) indicate premium customers.
+Profit can increase by reducing COGS and focusing on repeat customers.
 
 ---
 
