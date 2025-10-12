@@ -169,7 +169,7 @@ ORDER BY
 
 -1.Young customers (18–35) make most of the purchases and drive overall sales.
 
--2.Beauty and Clothing are the top-selling and most profitable categories.
+-2.Clothing and Electronics are the top-selling and most profitable categories.
 
 -3.Evening hours show the highest sales activity.
 
